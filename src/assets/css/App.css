@@ -1,0 +1,9 @@
+.segmentHeader{
+    background: url('../img/images.jpg') repeat !important;
+}
+
+.bgbubble{
+    background: url('../img/1471467.jpg') no-repeat !important;
+    
+  background-size: cover !important;
+} 
