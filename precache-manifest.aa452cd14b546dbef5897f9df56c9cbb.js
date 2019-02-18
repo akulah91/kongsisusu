@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "e118383af6b146640e7a",
+    "revision": "1f13130567f90c683528",
     "url": "/kongsisusu/static/css/main.82b771a5.chunk.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/kongsisusu/static/media/icons.0ab54153.woff2"
-  },
-  {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/kongsisusu/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/kongsisusu/static/media/icons.0ab54153.woff2"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -56,8 +56,12 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "e118383af6b146640e7a",
-    "url": "/kongsisusu/static/js/main.e118383a.chunk.js"
+    "revision": "1f13130567f90c683528",
+    "url": "/kongsisusu/static/js/main.1f131305.chunk.js"
+  },
+  {
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -78,10 +82,6 @@ self.__precacheManifest = [
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/kongsisusu/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/css/2.41775ac1.chunk.css"
   },
   {
-    "revision": "17ed8f7a02050ac9cfb52fd031184222",
+    "revision": "63be11d8c55e3c4c2a971afa55a1db28",
     "url": "/kongsisusu/index.html"
   }
 ];
