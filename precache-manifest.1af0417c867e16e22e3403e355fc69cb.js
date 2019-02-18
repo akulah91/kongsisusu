@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/kongsisusu/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "90ffecb2b932adceaa0b",
+    "revision": "e118383af6b146640e7a",
     "url": "/kongsisusu/static/css/main.82b771a5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/depositphotos_114716608-stock-illustration-presentation-template-what-to-eat.958cf9c7.jpg"
   },
   {
-    "revision": "2355cf915751817c3323",
-    "url": "/kongsisusu/static/js/2.2355cf91.chunk.js"
+    "revision": "96a6d7f65bd9ce95d0d1",
+    "url": "/kongsisusu/static/js/2.96a6d7f6.chunk.js"
   },
   {
     "revision": "5a8c73c896d793d3bb3b81b8b669da5a",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/kongsisusu/static/media/icons.8e3c7f55.eot"
-  },
-  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/kongsisusu/static/media/icons.0ab54153.woff2"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/kongsisusu/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -44,24 +44,20 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
-  },
-  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/kongsisusu/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/kongsisusu/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/kongsisusu/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "90ffecb2b932adceaa0b",
-    "url": "/kongsisusu/static/js/main.90ffecb2.chunk.js"
-  },
-  {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
+    "revision": "e118383af6b146640e7a",
+    "url": "/kongsisusu/static/js/main.e118383a.chunk.js"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -82,6 +78,10 @@ self.__precacheManifest = [
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/kongsisusu/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -108,11 +108,11 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/Klinik Ibu Susuan.1a42b59a.jpg"
   },
   {
-    "revision": "2355cf915751817c3323",
+    "revision": "96a6d7f65bd9ce95d0d1",
     "url": "/kongsisusu/static/css/2.41775ac1.chunk.css"
   },
   {
-    "revision": "a25f8ad80387b6205239016f642d0747",
+    "revision": "17ed8f7a02050ac9cfb52fd031184222",
     "url": "/kongsisusu/index.html"
   }
 ];
