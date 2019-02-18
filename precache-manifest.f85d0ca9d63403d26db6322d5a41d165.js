@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "bfe1697e0dcabc837953",
+    "revision": "8a614c72678bb274d006",
     "url": "/kongsisusu/static/css/main.82b771a5.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "bfe1697e0dcabc837953",
-    "url": "/kongsisusu/static/js/main.bfe1697e.chunk.js"
+    "revision": "8a614c72678bb274d006",
+    "url": "/kongsisusu/static/js/main.8a614c72.chunk.js"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/css/2.41775ac1.chunk.css"
   },
   {
-    "revision": "7e6e0abdd6ced9b9987f8a9f84981632",
+    "revision": "b83c50a492f87a3d93d38a479e4077a9",
     "url": "/kongsisusu/index.html"
   }
 ];
