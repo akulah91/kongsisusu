@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/kongsisusu/static/media/outline-icons.ef60a4f6.woff"
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "8a614c72678bb274d006",
+    "revision": "977953050cfc4263ca43",
     "url": "/kongsisusu/static/css/main.82b771a5.chunk.css"
   },
   {
@@ -52,20 +52,20 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/kongsisusu/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "8a614c72678bb274d006",
-    "url": "/kongsisusu/static/js/main.8a614c72.chunk.js"
-  },
-  {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/kongsisusu/static/media/outline-icons.ad97afd3.ttf"
+    "revision": "977953050cfc4263ca43",
+    "url": "/kongsisusu/static/js/main.97795305.chunk.js"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/kongsisusu/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/kongsisusu/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/kongsisusu/static/css/2.41775ac1.chunk.css"
   },
   {
-    "revision": "b83c50a492f87a3d93d38a479e4077a9",
+    "revision": "d28a5cb686a958aa93cc1092ee6ba85a",
     "url": "/kongsisusu/index.html"
   }
 ];
